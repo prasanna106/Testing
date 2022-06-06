@@ -2,8 +2,8 @@ package pom;
 
 public class Home {
 public static void main(String[] args) {
-	System.out.println("my githhub is working now");
+	System.out.println("no need of this file");
 	
-	System.out.println("we have created new master file");
+	System.out.println("we have merged file and pulled");
 }
 }
